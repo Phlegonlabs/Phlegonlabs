@@ -1,4 +1,4 @@
-# Hey, I'm Jacky 👋
+# Hey, I'm Jacky 👋 &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=Phlegonlabs&style=flat-square&color=888888)
 
 🤖 **AI Native Developer** | 🚀 **Solo Founder @ [Phlegon Labs](https://jackyyyso.com)** | 🎬 **AI Content Creator**
 
@@ -51,13 +51,15 @@ Hong Kong-based AI-native developer who ships products fast with AI tools (Claud
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/Phlegonlabs" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Phlegonlabs&bg_color=00000000&color=888888&line=888888&point=aaaaaa&hide_border=true&area=true&area_color=888888" alt="GitHub Activity Graph" />
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Phlegonlabs&show_icons=true&theme=transparent&hide_border=true&count_private=true&icon_color=888&title_color=888&text_color=aaa" height="165" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=Phlegonlabs&theme=transparent&hide_border=true&ring=888888&fire=aaaaaa&currStreakLabel=888888&sideLabels=888888&currStreakNum=aaaaaa&sideNums=aaaaaa&dates=666666" height="165" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phlegonlabs&layout=compact&theme=transparent&hide_border=true&title_color=888&text_color=aaa" height="165" />
 
