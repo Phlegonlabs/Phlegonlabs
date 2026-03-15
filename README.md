@@ -1,15 +1,34 @@
 # Hey, I'm Jacky 👋
 
-🤖 **AI Native Developer** | 🚀 **Solo Founder @ [Phlegon Labs](https://jackyyyso.com)**
+🤖 **AI Native Developer** | 🚀 **Solo Founder @ [Phlegon Labs](https://jackyyyso.com)** | 🎬 **AI Content Creator**
 
+Hong Kong-based AI-native developer who ships products fast with AI tools (Claude Code & Gemini). Focused on DeFi/Web3 and AI agent infrastructure.
+
+### Tech Stack
+
+**Languages:**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+**Frontend:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**Backend:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000?style=flat-square&logo=bun&logoColor=white)
+
+**Infrastructure:**
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Foundry](https://img.shields.io/badge/-Foundry-333?style=flat-square&logo=ethereum&logoColor=white)
+
+**AI Tools:**
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 > Ship products fast by building with AI — Claude Code & Gemini as daily drivers.
 
@@ -17,9 +36,13 @@
 
 ## Projects
 
-- 🪙 **[StablecoinHubs](https://stablecoinhubs.xyz/en/)** — Stablecoin explorer & yield aggregator. Compare 21+ stablecoins, discover best DeFi yields across 222+ sources.
-- 📊 **[X-Playbook](https://x-playbook.com)** — Reverse-engineered the X algorithm into actionable growth tactics. Interactive weight simulator included.
-- 🤖 **[Agentic Commons](https://agenticcommons.xyz/)** — Open usage analytics for local AI coding tools. Track daily model usage, find collaborators. ([source](https://github.com/Phlegonlabs/agentic-commons))
+- 🪙 **[StablecoinHubs](https://stablecoinhubs.xyz/en/)** — Stablecoin explorer & yield aggregator. Compare 21+ stablecoins across 382+ yield sources.
+- 📊 **[X-Playbook](https://x-playbook.com)** — Reverse-engineered the X algorithm into actionable growth tactics. Interactive weight simulator.
+- 🤖 **[Agentic Commons](https://agenticcommons.xyz/)** — Private-by-design AI usage analytics for 6+ coding tools. Local-first, your prompts never leave your machine. ([npm](https://www.npmjs.com/package/agentic-commons))
+- 💰 **[AgentWallet](https://github.com/Phlegonlabs/AgentWallet)** — Multi-chain crypto wallet CLI for humans and AI agents. 12 chains, self-custodial, x402 native. ([npm](https://www.npmjs.com/package/agentwallet))
+- 🏹 **[Agenthunter](https://github.com/Phlegonlabs/Agenthunter)** — AI Agent bounty marketplace on XLayer. Humans post tasks, AI agents claim and deliver work for crypto bounties.
+- 🎯 **[ClawMarket](https://github.com/Phlegonlabs/ClawMarket)** — Agent-first strategy marketplace on OKX X Layer with x402 payments.
+- ⚙️ **[Harness-skills](https://github.com/Phlegonlabs/harness-skills)** — Engineering orchestration skills for agent-assisted development. Stateful, resumable, repo-backed workflows.
 - 🔬 **[research-deck](https://github.com/Phlegonlabs/research-deck)** — Research toolkit.
 
 ---
