@@ -29,9 +29,9 @@ Hong Kong-based AI-native developer shipping at the intersection of AI agents an
 [![Infra](https://skillicons.dev/icons?i=cloudflare&theme=dark)](https://skillicons.dev)
 
 **AI Tools:**
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+<img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" title="Claude Code" />&nbsp;
+<img src="https://cdn.simpleicons.org/openai/ffffff" height="48" title="Codex" />&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" title="Gemini" />
 
 ---
 
