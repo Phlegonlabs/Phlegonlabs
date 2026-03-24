@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a7f37&height=140&section=header&text=Hey%2C%20I'm%20Jacky&fontSize=36&fontColor=ffffff&fontAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f5323&height=140&section=header&text=Hey%2C%20I'm%20Jacky&fontSize=36&fontColor=ffffff&fontAlignY=60&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=39d353&center=true&vCenter=true&width=500&lines=AI+Native+Developer;Solo+Founder+%40+Phlegon+Labs;Building+AI+%C3%97+Web3+Infrastructure)](https://git.io/typing-svg)
 
@@ -16,20 +16,12 @@ Hong Kong-based AI-native developer shipping at the intersection of AI agents an
 
 ### Tech Stack
 
-**Languages:**
-[![Languages](https://skillicons.dev/icons?i=ts,py,solidity&theme=dark)](https://skillicons.dev)
-
-**Frontend:**
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind&theme=dark)](https://skillicons.dev)
-
-**Backend:**
-[![Backend](https://skillicons.dev/icons?i=nodejs,bun&theme=dark)](https://skillicons.dev)
-
-**Infrastructure:**
-[![Infra](https://skillicons.dev/icons?i=cloudflare&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,py,solidity,react,nextjs,astro,tailwind,nodejs,bun,cloudflare&theme=dark)](https://skillicons.dev)
 
 **AI Tools:**
-<img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" title="Claude Code" />&nbsp;<img src="https://cdn.simpleicons.org/openai/412991" height="48" title="Codex" />&nbsp;<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" title="Gemini" />
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
@@ -58,12 +50,6 @@ Hong Kong-based AI-native developer shipping at the intersection of AI agents an
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Phlegonlabs&theme=darkhub&no-bg=true&no-frame=true&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Phlegonlabs&show_icons=true&theme=transparent&hide_border=true&count_private=true&icon_color=39d353&title_color=39d353&text_color=8b949e" height="165" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=Phlegonlabs&theme=transparent&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&currStreakNum=8b949e&sideNums=8b949e&dates=444444" height="165" />
@@ -82,4 +68,4 @@ Hong Kong-based AI-native developer shipping at the intersection of AI agents an
 [![Email](https://img.shields.io/badge/-jackyyyso@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jackyyyso@gmail.com)
 [![Website](https://img.shields.io/badge/-jackyyyso.com-000?style=flat-square&logo=safari&logoColor=white)](https://jackyyyso.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:0d1117&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5323,100:0d1117&height=80&section=footer" />
