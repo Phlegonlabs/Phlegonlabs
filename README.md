@@ -38,8 +38,6 @@ Hong Kong-based AI-native developer shipping at the intersection of AI agents an
 
 ## Agent Skills
 
-> Claude Code & Codex skills — repo-backed workflows for AI-native development.
-
 - 🔧 **[Harness-Engineering-skills](https://github.com/Phlegonlabs/Harness-Engineering-skills)** — AI-native engineering workflow skills for Claude and Codex. PRD-to-code orchestration, milestone delivery, and validation.
 - 📋 **[harness-eng-repo-template](https://github.com/Phlegonlabs/harness-eng-repo-template)** — Repo template for Harness Engineering skills. Drop-in project scaffolding with built-in skill support.
 - 🎨 **[product-brand](https://github.com/Phlegonlabs/product-brand)** — Complete 5-step brand-building skill for Claude Code. From naming to SEO content, inspired by Lexicon Branding methodology.
