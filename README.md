@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39d353&height=120&section=header&text=Hey%2C%20I'm%20Jacky&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a7f37&height=140&section=header&text=Hey%2C%20I'm%20Jacky&fontSize=36&fontColor=ffffff&fontAlignY=60&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=39d353&center=true&vCenter=true&width=500&lines=AI+Native+Developer;Solo+Founder+%40+Phlegon+Labs;Building+AI+%C3%97+Web3+Infrastructure)](https://git.io/typing-svg)
 
@@ -16,12 +16,22 @@ Hong Kong-based AI-native developer shipping at the intersection of AI agents an
 
 ### Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=ts,py,solidity,react,nextjs,astro,tailwind,nodejs,bun,cloudflare&theme=dark&perline=10)](https://skillicons.dev)
+**Languages:**
+[![Languages](https://skillicons.dev/icons?i=ts,py,solidity&theme=dark)](https://skillicons.dev)
+
+**Frontend:**
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind&theme=dark)](https://skillicons.dev)
+
+**Backend:**
+[![Backend](https://skillicons.dev/icons?i=nodejs,bun&theme=dark)](https://skillicons.dev)
+
+**Infrastructure:**
+[![Infra](https://skillicons.dev/icons?i=cloudflare&theme=dark)](https://skillicons.dev)
 
 **AI Tools:**
-![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
