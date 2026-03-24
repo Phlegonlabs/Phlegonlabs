@@ -28,9 +28,10 @@ Hong Kong-based AI-native developer who ships products fast with AI tools (Claud
 
 **AI Tools:**
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-> Ship products fast by building with AI — Claude Code & Gemini as daily drivers.
+> Ship products fast by building with AI — Claude Code, Codex & Gemini as daily drivers.
 
 ---
 
