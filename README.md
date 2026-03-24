@@ -40,10 +40,17 @@ Hong Kong-based AI-native developer who ships products fast with AI tools (Claud
 - 📊 **[X-Playbook](https://x-playbook.com)** — Reverse-engineered the X algorithm into actionable growth tactics. Interactive weight simulator.
 - 🤖 **[Agentic Commons](https://agenticcommons.xyz/)** — Private-by-design AI usage analytics for 6+ coding tools. Local-first, your prompts never leave your machine. ([npm](https://www.npmjs.com/package/agentic-commons))
 - 💰 **[AgentWallet](https://github.com/Phlegonlabs/AgentWallet)** — Multi-chain crypto wallet CLI for humans and AI agents. 12 chains, self-custodial, x402 native. ([npm](https://www.npmjs.com/package/agentwallet))
-- 🏹 **[Agenthunter](https://github.com/Phlegonlabs/Agenthunter)** — AI Agent bounty marketplace on XLayer. Humans post tasks, AI agents claim and deliver work for crypto bounties.
 - 🎯 **[ClawMarket](https://github.com/Phlegonlabs/ClawMarket)** — Agent-first strategy marketplace on OKX X Layer with x402 payments.
-- ⚙️ **[Harness-skills](https://github.com/Phlegonlabs/harness-skills)** — Engineering orchestration skills for agent-assisted development. Stateful, resumable, repo-backed workflows.
 - 🔬 **[research-deck](https://github.com/Phlegonlabs/research-deck)** — Research toolkit.
+
+---
+
+## Agent Skills
+
+> Claude Code & Codex skills — repo-backed workflows for AI-native development.
+
+- 🔧 **[Harness-Engineering-skills](https://github.com/Phlegonlabs/Harness-Engineering-skills)** — AI-native engineering workflow skills for Claude and Codex. PRD-to-code orchestration, milestone delivery, and validation.
+- 📋 **[harness-eng-repo-template](https://github.com/Phlegonlabs/harness-eng-repo-template)** — Repo template for Harness Engineering skills. Drop-in project scaffolding with built-in skill support.
 
 ---
 
