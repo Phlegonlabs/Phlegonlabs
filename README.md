@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:222222&height=120&section=header&text=Hey%2C%20I'm%20Jacky&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39d353&height=120&section=header&text=Hey%2C%20I'm%20Jacky&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=AI+Native+Developer;Solo+Founder+%40+Phlegon+Labs;Building+AI+%C3%97+Web3+Infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=39d353&center=true&vCenter=true&width=500&lines=AI+Native+Developer;Solo+Founder+%40+Phlegon+Labs;Building+AI+%C3%97+Web3+Infrastructure)](https://git.io/typing-svg)
 
-&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=Phlegonlabs&style=flat-square&color=888888)
+&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=Phlegonlabs&style=flat-square&color=39d353)
 
 </div>
 
@@ -50,17 +50,17 @@ Hong Kong-based AI-native developer shipping at the intersection of AI agents an
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Phlegonlabs&theme=flat&no-bg=true&no-frame=true&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+<img src="https://github-profile-trophy.vercel.app/?username=Phlegonlabs&theme=darkhub&no-bg=true&no-frame=true&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Phlegonlabs&show_icons=true&theme=transparent&hide_border=true&count_private=true&icon_color=888&title_color=888&text_color=aaa" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Phlegonlabs&show_icons=true&theme=transparent&hide_border=true&count_private=true&icon_color=39d353&title_color=39d353&text_color=8b949e" height="165" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Phlegonlabs&theme=transparent&hide_border=true&ring=888888&fire=aaaaaa&currStreakLabel=888888&sideLabels=888888&currStreakNum=aaaaaa&sideNums=aaaaaa&dates=666666" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Phlegonlabs&theme=transparent&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&currStreakNum=8b949e&sideNums=8b949e&dates=444444" height="165" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phlegonlabs&layout=compact&theme=transparent&hide_border=true&title_color=888&text_color=aaa" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phlegonlabs&layout=compact&theme=transparent&hide_border=true&title_color=39d353&text_color=8b949e" height="165" />
 
 </div>
 
@@ -74,4 +74,4 @@ Hong Kong-based AI-native developer shipping at the intersection of AI agents an
 [![Email](https://img.shields.io/badge/-jackyyyso@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jackyyyso@gmail.com)
 [![Website](https://img.shields.io/badge/-jackyyyso.com-000?style=flat-square&logo=safari&logoColor=white)](https://jackyyyso.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:555555&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:0d1117&height=80&section=footer" />
