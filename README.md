@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Phlegonlabs.png?size=96" width="88" alt="Jacky" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=39d353&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Jacky;AI-native+developer+%C2%B7+Solo+founder+%40+Phlegon+Labs;Building+skills+and+tooling+for+coding+agents" alt="Typing SVG" />
 
 </div>
@@ -22,11 +20,15 @@ I care about small teams, fast shipping, and software that stays easy to underst
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,py,react,nextjs,astro,tailwind,nodejs,bun,cloudflare&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,py,react,nextjs,astro,tailwind,nodejs,bun,cloudflare&theme=light" />
-  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=ts,py,react,nextjs,astro,tailwind,nodejs,bun,cloudflare&theme=dark" />
-</picture>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-1A1A1A?style=flat-square&logo=bun&logoColor=FBF0DF)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 <br/>
 
