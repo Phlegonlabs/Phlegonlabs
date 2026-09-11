@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/Phlegonlabs.png?size=96" width="88" alt="Jacky" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=39d353&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Jacky;AI-native+developer+%C2%B7+Solo+founder+%40+Phlegon+Labs;Building+skills+and+tooling+for+coding+agents" alt="Typing SVG" />
 
 </div>
@@ -28,21 +30,27 @@ I care about small teams, fast shipping, and software that stays easy to underst
 
 <br/>
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Z.ai](https://img.shields.io/badge/Z.ai-39d353?style=for-the-badge)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
-![Kimi](https://img.shields.io/badge/Kimi-5D5FEF?style=for-the-badge&logo=kimi&logoColor=white)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.com/product/claude-code)
+[![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)](https://developers.openai.com/codex)
+[![Z.ai](https://img.shields.io/badge/Z.ai-39d353?style=for-the-badge)](https://z.ai)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)](https://www.deepseek.com)
+[![Kimi](https://img.shields.io/badge/Kimi-5D5FEF?style=for-the-badge&logo=kimi&logoColor=white)](https://www.kimi.com)
 
 </div>
 
 ## Contact
+
+<div align="center">
 
 [![X](https://img.shields.io/badge/-@Jackyyyso-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/Jackyyyso)
 [![LinkedIn](https://img.shields.io/badge/-jackyyyso-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jackyyyso)
 [![YouTube](https://img.shields.io/badge/-@jackyyyso-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@jackyyyso)
 [![Email](https://img.shields.io/badge/-jackyyyso@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jackyyyso@gmail.com)
 [![Website](https://img.shields.io/badge/-jackyyyso.com-39d353?style=flat-square&logo=safari&logoColor=white)](https://jackyyyso.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F85149,100:39d353&height=2" width="100%" alt="" />
 
 <div align="center">
 
