@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/Phlegonlabs/Phlegonlabs/master/assets/header.svg" width="736" alt="Jacky — AI-native developer, solo founder @ Phlegon Labs" />
 
-[![cat ~/secret/ — psst, click](https://raw.githubusercontent.com/Phlegonlabs/Phlegonlabs/master/assets/secret-strip.svg)](https://github.com/Phlegonlabs/Phlegonlabs/blob/master/assets/easter-egg.svg)
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39d353,100:F85149&height=2" width="100%" alt="" />
@@ -51,16 +49,6 @@ I care about small teams, fast shipping, and software that stays easy to underst
 [![YouTube](https://img.shields.io/badge/-@jackyyyso-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@jackyyyso)
 [![Email](https://img.shields.io/badge/-jackyyyso@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jackyyyso@gmail.com)
 [![Website](https://img.shields.io/badge/-jackyyyso.com-39d353?style=flat-square&logo=safari&logoColor=white)](https://jackyyyso.com)
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phlegonlabs/Phlegonlabs/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phlegonlabs/Phlegonlabs/output/github-snake.svg" />
-  <img alt="Contribution graph as snake animation" src="https://raw.githubusercontent.com/Phlegonlabs/Phlegonlabs/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
