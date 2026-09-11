@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="736" height="400" viewBox="0 0 736 400" role="img" aria-label="Easter egg terminal: ~/.secret">
+  <rect x="0.5" y="0.5" width="735" height="399" rx="10" fill="#161b22" stroke="#30363d"/>
+  <line x1="1" y1="40" x2="735" y2="40" stroke="#21262d"/>
+  <circle cx="22" cy="20" r="6" fill="#F85149"/>
+  <circle cx="42" cy="20" r="6" fill="#D29922"/>
+  <circle cx="62" cy="20" r="6" fill="#39d353"/>
+  <text x="368" y="25" text-anchor="middle" fill="#8b949e" font-size="13" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">jacky@phlegon-labs: ~/.secret</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15">
+    <text x="24" y="74" fill="#39d353">$</text>
+    <text x="40" y="74" fill="#e6edf3">ls -a</text>
+
+    <text x="40" y="103" fill="#8b949e">.plans  .dreams  coffee.level  motd.txt  todo.txt</text>
+
+    <text x="24" y="132" fill="#39d353">$</text>
+    <text x="40" y="132" fill="#e6edf3">cat motd.txt</text>
+
+    <text x="40" y="161" fill="#39d353">"ship &gt; talk." every single day.</text>
+
+    <text x="24" y="190" fill="#39d353">$</text>
+    <text x="40" y="190" fill="#e6edf3">cat coffee.level</text>
+
+    <text x="40" y="219" fill="#e6edf3">[####......] 34% - refill advised</text>
+
+    <text x="24" y="248" fill="#39d353">$</text>
+    <text x="40" y="248" fill="#e6edf3">cat todo.txt</text>
+
+    <text x="40" y="277" fill="#39d353">[x] build tools for AI agents</text>
+    <text x="40" y="306" fill="#F85149">[ ] teach the agents to build the tools</text>
+    <text x="40" y="335" fill="#F85149">[ ] ???   [ ] profit</text>
+    <rect x="220" y="322" width="9" height="17" fill="#F85149">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="24" y="371" fill="#8b949e"># you found it. now go build something.</text>
+  </g>
+</svg>

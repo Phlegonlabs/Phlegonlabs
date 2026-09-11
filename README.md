@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Phlegonlabs/Phlegonlabs/master/assets/header.svg" width="736" alt="Jacky — AI-native developer, solo founder @ Phlegon Labs" />
 
+[![cat ~/secret/ — psst, click](https://raw.githubusercontent.com/Phlegonlabs/Phlegonlabs/master/assets/secret-strip.svg)](https://github.com/Phlegonlabs/Phlegonlabs/blob/master/assets/easter-egg.svg)
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39d353,100:F85149&height=2" width="100%" alt="" />
