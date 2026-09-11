@@ -1,0 +1,49 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=39d353&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Jacky;AI-native+developer+%C2%B7+Solo+founder+%40+Phlegon+Labs;Building+skills+and+tooling+for+coding+agents" alt="Typing SVG" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39d353,100:F85149&height=2" width="100%" alt="" />
+
+I'm an AI-native developer and solo founder based in Hong Kong. I build **skills, harnesses, and tooling for AI coding agents** — Claude Code, Codex, and Gemini are my daily drivers, and my repos are mostly things that make them (and me) ship faster.
+
+I care about small teams, fast shipping, and software that stays easy to understand.
+
+## What I'm building
+
+- 🎨 **[Powerpoint-fancy-design](https://github.com/Phlegonlabs/Powerpoint-fancy-design)** [![Stars](https://img.shields.io/github/stars/Phlegonlabs/Powerpoint-fancy-design?style=flat-square&color=39d353)](https://github.com/Phlegonlabs/Powerpoint-fancy-design/stargazers) — presentation-design skill for Claude Code and Codex. Turns page-structured Markdown into styled 1600×900 HTML slides, PNG renders, and exportable PPTX decks.
+- 🚀 **[product-delivery-harness](https://github.com/Phlegonlabs/product-delivery-harness)** [![Last Commit](https://img.shields.io/github/last-commit/Phlegonlabs/product-delivery-harness?style=flat-square&color=F85149)](https://github.com/Phlegonlabs/product-delivery-harness/commits) — PRD, design, and PLAN/RUN graph orchestration for any coding agent, with runtime re-orchestration and project-level skill bindings.
+- 🔍 **[agentic-commons](https://github.com/Phlegonlabs/agentic-commons)** — privacy-first AI usage analytics across 6+ coding tools. Local-first: your prompts never leave your machine.
+
+## Tech stack
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,py,react,nextjs,astro,tailwind,nodejs,bun,cloudflare&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,py,react,nextjs,astro,tailwind,nodejs,bun,cloudflare&theme=light" />
+  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=ts,py,react,nextjs,astro,tailwind,nodejs,bun,cloudflare&theme=dark" />
+</picture>
+
+<br/>
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+</div>
+
+## Contact
+
+[![X](https://img.shields.io/badge/-@Jackyyyso-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/Jackyyyso)
+[![LinkedIn](https://img.shields.io/badge/-jackyyyso-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jackyyyso)
+[![YouTube](https://img.shields.io/badge/-@jackyyyso-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@jackyyyso)
+[![Email](https://img.shields.io/badge/-jackyyyso@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jackyyyso@gmail.com)
+[![Website](https://img.shields.io/badge/-jackyyyso.com-39d353?style=flat-square&logo=safari&logoColor=white)](https://jackyyyso.com)
+
+<div align="center">
+
+<sub>Made with ❤️ in Hong Kong</sub>
+
+</div>
