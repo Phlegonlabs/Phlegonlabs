@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39d353,100:F85149&height=2" width="100%" alt="" />
 
-I'm an AI-native developer and solo founder based in Hong Kong. I build **skills, harnesses, and tooling for AI coding agents** — Claude Code, Codex, and Gemini are my daily drivers, and my repos are mostly things that make them (and me) ship faster.
+I'm an AI-native developer and solo founder based in Hong Kong. I build **skills, harnesses, and tooling for AI coding agents** — Claude Code, Codex, Z.ai, DeepSeek, and Kimi are my daily drivers, and my repos are mostly things that make them (and me) ship faster.
 
 I care about small teams, fast shipping, and software that stays easy to understand.
 
@@ -30,7 +30,9 @@ I care about small teams, fast shipping, and software that stays easy to underst
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Z.ai](https://img.shields.io/badge/Z.ai-39d353?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-5D5FEF?style=for-the-badge&logo=kimi&logoColor=white)
 
 </div>
 
